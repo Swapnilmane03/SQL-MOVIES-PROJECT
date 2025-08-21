@@ -66,5 +66,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ### ✨ Author
 **Swapnil Mane**  
-📧 Email: *your.email@example.com*  
+📧 Email: *swapnilmane764@gmail.com*  
 🔗 [LinkedIn](https://www.linkedin.com/in/swapnilmane03/overlay/about-this-profile/) |
